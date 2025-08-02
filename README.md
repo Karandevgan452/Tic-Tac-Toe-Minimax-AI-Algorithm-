@@ -17,3 +17,7 @@ The game features:
 Java, Swing, Minimax Algorithm, Object-Oriented Programming
 
 ---
+Steps to Play the Game :
+1. Install the zip file.
+2. Unzip the file.
+3. Run java TicTacToeGame.java .
